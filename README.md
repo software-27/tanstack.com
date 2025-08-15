@@ -1,4 +1,4 @@
-# Welcome to TanStack.com!
+## Welcome to TanStack.com!
 
 This site is built with TanStack Router!
 
